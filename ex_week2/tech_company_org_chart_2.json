@@ -1,0 +1,50 @@
+{
+    "name": "CEO",
+    "subordinates": [
+        {
+            "name": "CTO",
+            "subordinates": [
+                {
+                    "name": "Engineering",
+                    "subordinates": [
+                        {"name": "Engineering Manager"},
+                        {"name": "Development Team"}
+                    ]
+                },
+                {
+                    "name": "Product",
+                    "subordinates": [
+                        {"name": "Product Manager"},
+                        {"name": "UX/UI Design Team"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CFO",
+            "subordinates": [
+                {"name": "Finance Manager"},
+                {"name": "Accounting Team"}
+            ]
+        },
+        {
+            "name": "COO",
+            "subordinates": [
+                {
+                    "name": "Operations",
+                    "subordinates": [
+                        {"name": "Operations Manager"},
+                        {"name": "Logistics Team"}
+                    ]
+                },
+                {
+                    "name": "HR",
+                    "subordinates": [
+                        {"name": "HR Manager"},
+                        {"name": "Recruitment Team"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
