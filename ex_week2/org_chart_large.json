@@ -1,0 +1,63 @@
+{
+    "name": "CEO",
+    "subordinates": [
+        {
+            "name": "CTO",
+            "subordinates": [
+                {
+                    "name": "Development",
+                    "subordinates": [
+                        {"name": "Engineering Manager"},
+                        {
+                            "name": "Software Engineers",
+                            "subordinates": [
+                                {"name": "Senior Developer"},
+                                {"name": "Developer"},
+                                {"name": "Junior Developer"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "QA",
+                    "subordinates": [
+                        {"name": "QA Manager"},
+                        {"name": "QA Engineers"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CFO",
+            "subordinates": [
+                {"name": "Finance Manager"},
+                {
+                    "name": "Accounting",
+                    "subordinates": [
+                        {"name": "Senior Accountant"},
+                        {"name": "Junior Accountant"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "COO",
+            "subordinates": [
+                {
+                    "name": "Operations",
+                    "subordinates": [
+                        {"name": "Operations Manager"},
+                        {"name": "Logistics Team"}
+                    ]
+                },
+                {
+                    "name": "HR",
+                    "subordinates": [
+                        {"name": "HR Manager"},
+                        {"name": "Recruitment Team"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

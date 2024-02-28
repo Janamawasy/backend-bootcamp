@@ -1,0 +1,57 @@
+{
+    "name": "CEO",
+    "subordinates": [
+        {
+            "name": "CTO",
+            "subordinates": [
+                {
+                    "name": "Software Development",
+                    "subordinates": [
+                        {"name": "Development Manager"},
+                        {
+                            "name": "Software Engineers",
+                            "subordinates": [
+                                {"name": "Frontend Developer"},
+                                {"name": "Backend Developer"},
+                                {"name": "DevOps Engineer"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Data Science",
+                    "subordinates": [
+                        {"name": "Data Science Manager"},
+                        {"name": "Data Scientists"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CFO",
+            "subordinates": [
+                {"name": "Finance Manager"},
+                {"name": "Financial Analysts"}
+            ]
+        },
+        {
+            "name": "COO",
+            "subordinates": [
+                {
+                    "name": "Operations",
+                    "subordinates": [
+                        {"name": "Operations Manager"},
+                        {"name": "Quality Assurance Team"}
+                    ]
+                },
+                {
+                    "name": "HR",
+                    "subordinates": [
+                        {"name": "HR Manager"},
+                        {"name": "Employee Relations Team"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
