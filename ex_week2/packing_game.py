@@ -11,6 +11,7 @@ class ElectronicItem(Item):
                  ram = None, graphics = None, battery_life = None,
                  fitness_features = None, connectivity = None):
         super().__init__(name, weight)
+                     ## color and price/cost are the same in electronic and none electronic. why not put in item?
         self.color = color
         self.price = price
         self.size = size
@@ -51,7 +52,9 @@ class Bag:
         self.max_weight = max_weight
         self.max_items = max_items
         self.items = []
-
+    ## good small functions, good naming
+    ### is the if statment easy to read in your mind?
+    ### how would you make it more readable?
     def add_item(self, item):
         if len(self.items) < self.max_items and self.get_bag_weight() + item.weight <= self.max_weight:
             print(len(self.items), self.max_items, self.get_bag_weight() + item.weight, self.max_weight)
@@ -84,6 +87,7 @@ class Bag:
     def print_by_category(self):
         categories = {}
         for item in self.items:
+            ### nnique implementation. interesting
             cat = item.__class__.__name__
             print(cat , item.name)
             if cat not in categories:
@@ -107,7 +111,7 @@ class Bag:
         else:
             print('No items in this category')
 
-
+### HARDCODING
 item1 = ElectronicItem(name="Charger", weight=12, color="Black", price=50, size="Medium", brand="Lenovo")
 item2 = ElectronicItem(name="Smartphone", weight=50, brand="Apple", os="iOS", storage="128 GB", display="AMOLED", camera="Dual Lens", materials=["lithium", "plastic"])
 item3 = ElectronicItem(name="Laptop", weight=60, brand="Dell", processor="Intel i7", ram="16 GB", storage="512 GB SSD", graphics="NVIDIA GeForce4")
@@ -120,6 +124,7 @@ item8 = NonElectronicItem('Sneakers',brand="New Balance", is_new=False, bought_f
 bag = Bag()
 
 
+### good idea - but what is the point? in this implementation the keys are exactly the same as the values, so why put in dict?
 items_dict = {
     'item1': item1,
     'item2': item2,
@@ -149,6 +154,7 @@ while True:
             break
     elif choice == '2':
         item_name = input('Enter item - item1 to item8 : ')
+        ### need better input valdation. try to enter "t", see what happens
         if items_dict[item_name]:
             bag.remove_item(items_dict[item_name])
         else:
