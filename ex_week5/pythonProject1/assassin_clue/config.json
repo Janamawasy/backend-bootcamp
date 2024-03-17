@@ -1,0 +1,36 @@
+{
+    "weapons": [
+        "weapon_a",
+        "weapon_b",
+        "weapon_c",
+        "weapon_d",
+        "weapon_e",
+        "weapon_f",
+        "weapon_g",
+        "weapon_h",
+        "weapon_i",
+        "weapon_j"
+    ],
+    "places": [
+        "place_a",
+        "place_b",
+        "place_c",
+        "place_d",
+        "place_e",
+        "place_f",
+        "place_g",
+        "place_h",
+        "place_i",
+        "place_j",
+        "place_k",
+        "place_l",
+        "place_m",
+        "place_n",
+        "place_o",
+        "place_p",
+        "place_q",
+        "place_r",
+        "place_s",
+        "place_t"
+    ]
+}
