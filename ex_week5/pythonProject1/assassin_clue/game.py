@@ -78,20 +78,24 @@ class Game():
             print(f'{final_suspect.name} is not the murderer.')
             return False
 
-    def manage_rounds(self):
+        def manage_rounds(self):
         '''
         run rounds until finding the assassin or no players left in the game
         '''
-        while len(self.players) > 2:
-            print('****************************')
-            self.murder()
-            for player in self.players:
-                res = self.player_suspect(player)
-                if res:
-                    break
-            else:  # This else block executes if the inner loop completes without breaking
-                continue  # Continue with the next iteration of the outer loop if no accusation was successful
-            break
+        try:
+            while len(self.players) > 2:
+                print('****************************')
+                self.murder()
+                for player in self.players:
+                    res = self.player_suspect(player)
+                    if res:
+                        break
+                else:  # This else block executes if the inner loop completes without breaking
+                    continue  # Continue with the next iteration of the outer loop if no accusation was successful
+                break
+        except Exception as e:
+            print(f"An unexpected error occurred: {e}")
+
 
 
 
