@@ -1,0 +1,26 @@
+Overview
+This project implements a version of the popular party game "Assassin" or "Clue". The game simulates a scenario where players take on the roles of innocents and an assassin. Each round, players visit different places, and a murder occurs with a specific weapon. The goal is to identify the assassin before they eliminate all the other players.
+
+
+Features
+- Randomly assigns roles (innocent or assassin) to players.
+- Allows players to visit places and have favorite weapons.
+- Simulates murders, suspections and accusations.
+- Supports dynamic configuration of game parameters such as the number of players, places, and weapons.
+
+File Structure
+main.py: Entry point of the game.
+game.py: Contains the Game class that manages the game logic.
+player.py: Defines the Player class representing each player in the game.
+handle_file.py: Provides functions for reading data from the configuration file.
+config.json: Configuration file containing information about places and weapons.
+
+
+points of failure that have been error handled:
+- file not found: file is missing or there are issues with permissions
+- new data file with other format
+- invalid number of players
+- if choose_assassin function was called before adding players to the game - a ValueError will be raised
+- not enough players remained in the game
+- if no potential victims lift to choose
+- unexpected error in manage_rounds
