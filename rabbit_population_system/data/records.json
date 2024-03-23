@@ -1,0 +1,618 @@
+[
+    {
+        "1": {
+            "record_time": 1710848400.430558,
+            "death_num": 17,
+            "birth_num": 7
+        }
+    },
+    {
+        "2": {
+            "record_time": 1710848428.3889625,
+            "death_num": 12,
+            "birth_num": 8
+        }
+    },
+    {
+        "3": {
+            "record_time": 1710848437.3941317,
+            "death_num": 8,
+            "birth_num": 19
+        }
+    },
+    {
+        "4": {
+            "record_time": 1710848447.4597,
+            "death_num": 8,
+            "birth_num": 9
+        }
+    },
+    {
+        "5": {
+            "record_time": 1710848452.5245504,
+            "death_num": 9,
+            "birth_num": 19
+        }
+    },
+    {
+        "6": {
+            "record_time": 1710937493.0160174,
+            "death_num": 8,
+            "birth_num": 17
+        }
+    },
+    {
+        "7": {
+            "record_time": 1710937502.0171785,
+            "death_num": 7,
+            "birth_num": 14
+        }
+    },
+    {
+        "8": {
+            "record_time": 1710937510.0427108,
+            "death_num": 4,
+            "birth_num": 20
+        }
+    },
+    {
+        "9": {
+            "record_time": 1710937515.0659611,
+            "death_num": 3,
+            "birth_num": 2
+        }
+    },
+    {
+        "10": {
+            "record_time": 1710937524.0799384,
+            "death_num": 15,
+            "birth_num": 16
+        }
+    },
+    {
+        "11": {
+            "record_time": 1710937584.9233384,
+            "death_num": 9,
+            "birth_num": 17
+        }
+    },
+    {
+        "12": {
+            "record_time": 1710937589.9260046,
+            "death_num": 5,
+            "birth_num": 2
+        }
+    },
+    {
+        "13": {
+            "record_time": 1710937597.9511764,
+            "death_num": 5,
+            "birth_num": 6
+        }
+    },
+    {
+        "14": {
+            "record_time": 1710937603.9780445,
+            "death_num": 6,
+            "birth_num": 4
+        }
+    },
+    {
+        "15": {
+            "record_time": 1710937612.000418,
+            "death_num": 19,
+            "birth_num": 3
+        }
+    },
+    {
+        "16": {
+            "record_time": 1710940633.3932984,
+            "death_num": 6,
+            "birth_num": 13
+        }
+    },
+    {
+        "17": {
+            "record_time": 1710940640.4025474,
+            "death_num": 17,
+            "birth_num": 2
+        }
+    },
+    {
+        "18": {
+            "record_time": 1710940772.1921175,
+            "death_num": 3,
+            "birth_num": 8
+        }
+    },
+    {
+        "19": {
+            "record_time": 1710940780.1991882,
+            "death_num": 9,
+            "birth_num": 16
+        }
+    },
+    {
+        "20": {
+            "record_time": 1710940825.3203747,
+            "death_num": 4,
+            "birth_num": 7
+        }
+    },
+    {
+        "21": {
+            "record_time": 1711227669.3994055,
+            "death_num": 16,
+            "birth_num": 20
+        }
+    },
+    {
+        "22": {
+            "record_time": 1711227678.4019082,
+            "death_num": 20,
+            "birth_num": 4
+        }
+    },
+    {
+        "23": {
+            "record_time": 1711227683.4088595,
+            "death_num": 5,
+            "birth_num": 12
+        }
+    },
+    {
+        "24": {
+            "record_time": 1711227690.4818614,
+            "death_num": 18,
+            "birth_num": 4
+        }
+    },
+    {
+        "25": {
+            "record_time": 1711227695.5204477,
+            "death_num": 17,
+            "birth_num": 11
+        }
+    },
+    {
+        "26": {
+            "record_time": 1711227778.0419042,
+            "death_num": 12,
+            "birth_num": 20
+        }
+    },
+    {
+        "27": {
+            "record_time": 1711227787.046837,
+            "death_num": 12,
+            "birth_num": 11
+        }
+    },
+    {
+        "28": {
+            "record_time": 1711227793.1239123,
+            "death_num": 16,
+            "birth_num": 20
+        }
+    },
+    {
+        "29": {
+            "record_time": 1711227802.1480396,
+            "death_num": 20,
+            "birth_num": 13
+        }
+    },
+    {
+        "30": {
+            "record_time": 1711227808.1804075,
+            "death_num": 8,
+            "birth_num": 10
+        }
+    },
+    {
+        "31": {
+            "record_time": 1711228775.6705756,
+            "death_num": 15,
+            "birth_num": 10
+        }
+    },
+    {
+        "32": {
+            "record_time": 1711228959.249167,
+            "death_num": 6,
+            "birth_num": 12
+        }
+    },
+    {
+        "33": {
+            "record_time": 1711228964.2511504,
+            "death_num": 2,
+            "birth_num": 13
+        }
+    },
+    {
+        "34": {
+            "record_time": 1711228974.2789378,
+            "death_num": 11,
+            "birth_num": 1
+        }
+    },
+    {
+        "35": {
+            "record_time": 1711228982.3069725,
+            "death_num": 8,
+            "birth_num": 15
+        }
+    },
+    {
+        "36": {
+            "record_time": 1711228992.3796015,
+            "death_num": 16,
+            "birth_num": 4
+        }
+    },
+    {
+        "37": {
+            "record_time": 1711229151.8330033,
+            "death_num": 3,
+            "birth_num": 9
+        }
+    },
+    {
+        "38": {
+            "record_time": 1711229157.839198,
+            "death_num": 11,
+            "birth_num": 6
+        }
+    },
+    {
+        "39": {
+            "record_time": 1711229166.9764705,
+            "death_num": 8,
+            "birth_num": 15
+        }
+    },
+    {
+        "40": {
+            "record_time": 1711229173.0532322,
+            "death_num": 5,
+            "birth_num": 19
+        }
+    },
+    {
+        "41": {
+            "record_time": 1711229181.0805795,
+            "death_num": 8,
+            "birth_num": 20
+        }
+    },
+    {
+        "42": {
+            "record_time": 1711229253.2532604,
+            "death_num": 4,
+            "birth_num": 14
+        }
+    },
+    {
+        "43": {
+            "record_time": 1711229316.3104265,
+            "death_num": 17,
+            "birth_num": 20
+        }
+    },
+    {
+        "44": {
+            "record_time": 1711229323.3166628,
+            "death_num": 12,
+            "birth_num": 15
+        }
+    },
+    {
+        "45": {
+            "record_time": 1711229332.3461478,
+            "death_num": 20,
+            "birth_num": 19
+        }
+    },
+    {
+        "46": {
+            "record_time": 1711229340.4012022,
+            "death_num": 7,
+            "birth_num": 7
+        }
+    },
+    {
+        "47": {
+            "record_time": 1711229346.4747863,
+            "death_num": 13,
+            "birth_num": 19
+        }
+    },
+    {
+        "48": {
+            "record_time": 1711229448.0486162,
+            "death_num": 18,
+            "birth_num": 17
+        }
+    },
+    {
+        "49": {
+            "record_time": 1711229457.0586722,
+            "death_num": 18,
+            "birth_num": 12
+        }
+    },
+    {
+        "50": {
+            "record_time": 1711229467.0968053,
+            "death_num": 1,
+            "birth_num": 10
+        }
+    },
+    {
+        "51": {
+            "record_time": 1711229477.1686308,
+            "death_num": 6,
+            "birth_num": 1
+        }
+    },
+    {
+        "52": {
+            "record_time": 1711229482.2415333,
+            "death_num": 10,
+            "birth_num": 5
+        }
+    },
+    {
+        "53": {
+            "record_time": 1711229550.8759894,
+            "death_num": 18,
+            "birth_num": 12
+        }
+    },
+    {
+        "54": {
+            "record_time": 1711229556.8798544,
+            "death_num": 11,
+            "birth_num": 11
+        }
+    },
+    {
+        "55": {
+            "record_time": 1711229563.9146252,
+            "death_num": 2,
+            "birth_num": 16
+        }
+    },
+    {
+        "56": {
+            "record_time": 1711229569.9422605,
+            "death_num": 14,
+            "birth_num": 4
+        }
+    },
+    {
+        "57": {
+            "record_time": 1711229578.9771056,
+            "death_num": 20,
+            "birth_num": 8
+        }
+    },
+    {
+        "58": {
+            "record_time": 1711229593.1169882,
+            "death_num": 10,
+            "birth_num": 10
+        }
+    },
+    {
+        "59": {
+            "record_time": 1711229602.1241288,
+            "death_num": 20,
+            "birth_num": 9
+        }
+    },
+    {
+        "60": {
+            "record_time": 1711229609.1624267,
+            "death_num": 15,
+            "birth_num": 14
+        }
+    },
+    {
+        "61": {
+            "record_time": 1711229614.1722803,
+            "death_num": 4,
+            "birth_num": 17
+        }
+    },
+    {
+        "62": {
+            "record_time": 1711229623.2147312,
+            "death_num": 5,
+            "birth_num": 11
+        }
+    },
+    {
+        "63": {
+            "record_time": 1711229691.1109686,
+            "death_num": 3,
+            "birth_num": 13
+        }
+    },
+    {
+        "64": {
+            "record_time": 1711229696.1183815,
+            "death_num": 1,
+            "birth_num": 19
+        }
+    },
+    {
+        "65": {
+            "record_time": 1711229702.1485717,
+            "death_num": 17,
+            "birth_num": 1
+        }
+    },
+    {
+        "66": {
+            "record_time": 1711229707.240627,
+            "death_num": 14,
+            "birth_num": 12
+        }
+    },
+    {
+        "67": {
+            "record_time": 1711229713.2865956,
+            "death_num": 8,
+            "birth_num": 17
+        }
+    },
+    {
+        "68": {
+            "record_time": 1711229788.4681213,
+            "death_num": 10,
+            "birth_num": 1
+        }
+    },
+    {
+        "69": {
+            "record_time": 1711229961.237866,
+            "death_num": 2,
+            "birth_num": 18
+        }
+    },
+    {
+        "70": {
+            "record_time": 1711229966.2461183,
+            "death_num": 15,
+            "birth_num": 1
+        }
+    },
+    {
+        "71": {
+            "record_time": 1711229972.328117,
+            "death_num": 7,
+            "birth_num": 20
+        }
+    },
+    {
+        "72": {
+            "record_time": 1711229981.3608875,
+            "death_num": 17,
+            "birth_num": 12
+        }
+    },
+    {
+        "73": {
+            "record_time": 1711229989.452569,
+            "death_num": 10,
+            "birth_num": 8
+        }
+    },
+    {
+        "74": {
+            "record_time": 1711230054.993355,
+            "death_num": 7,
+            "birth_num": 3
+        }
+    },
+    {
+        "75": {
+            "record_time": 1711230065.0007057,
+            "death_num": 9,
+            "birth_num": 10
+        }
+    },
+    {
+        "76": {
+            "record_time": 1711230075.0462573,
+            "death_num": 7,
+            "birth_num": 4
+        }
+    },
+    {
+        "77": {
+            "record_time": 1711230085.0885143,
+            "death_num": 20,
+            "birth_num": 3
+        }
+    },
+    {
+        "78": {
+            "record_time": 1711230091.1221054,
+            "death_num": 17,
+            "birth_num": 18
+        }
+    },
+    {
+        "79": {
+            "record_time": 1711230133.9139702,
+            "death_num": 5,
+            "birth_num": 3
+        }
+    },
+    {
+        "80": {
+            "record_time": 1711230139.9201891,
+            "death_num": 14,
+            "birth_num": 10
+        }
+    },
+    {
+        "81": {
+            "record_time": 1711230148.9956405,
+            "death_num": 11,
+            "birth_num": 14
+        }
+    },
+    {
+        "82": {
+            "record_time": 1711230158.074201,
+            "death_num": 2,
+            "birth_num": 7
+        }
+    },
+    {
+        "83": {
+            "record_time": 1711230165.083781,
+            "death_num": 5,
+            "birth_num": 19
+        }
+    },
+    {
+        "84": {
+            "record_time": 1711230248.653045,
+            "death_num": 18,
+            "birth_num": 12
+        }
+    },
+    {
+        "85": {
+            "record_time": 1711230255.6627858,
+            "death_num": 13,
+            "birth_num": 9
+        }
+    },
+    {
+        "86": {
+            "record_time": 1711230260.711359,
+            "death_num": 18,
+            "birth_num": 15
+        }
+    },
+    {
+        "87": {
+            "record_time": 1711230266.7440128,
+            "death_num": 11,
+            "birth_num": 20
+        }
+    },
+    {
+        "88": {
+            "record_time": 1711230274.819595,
+            "death_num": 6,
+            "birth_num": 15
+        }
+    }
+]
