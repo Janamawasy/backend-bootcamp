@@ -1,0 +1,56 @@
+{
+    "id_2": {
+        "name": "John Doe",
+        "id": "id_2",
+        "age": 25,
+        "classes": [
+            "A",
+            "Z",
+            "Q"
+        ]
+    },
+    "id_3": {
+        "name": "Mark",
+        "id": "id_3",
+        "age": 20,
+        "classes": [
+            "A",
+            "X",
+            "C"
+        ]
+    },
+    "id_4": {
+        "name": "Maya",
+        "id": "id_4",
+        "age": 21,
+        "classes": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    "string": {
+        "name": "string",
+        "id": "string",
+        "age": 0,
+        "classes": [
+            "string"
+        ]
+    },
+    "id_5": {
+        "name": "joe",
+        "id": "id_5",
+        "age": 30,
+        "classes": [
+            "A"
+        ]
+    },
+    "id_6": {
+        "name": "cloe",
+        "id": "id_6",
+        "age": 22,
+        "classes": [
+            "B"
+        ]
+    }
+}

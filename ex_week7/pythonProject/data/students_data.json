@@ -1,0 +1,9 @@
+{
+  "id_1": {
+      "name": "student1",
+      "id": "id_1",
+      "age": 20,
+      "classes": ["A","B"]
+    }
+}
+
