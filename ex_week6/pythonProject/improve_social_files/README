@@ -1,4 +1,4 @@
-![Example Image]('system_design_pic.jpg')
+![Example Image](system_design_pic.jpg)
 
 - User Request:
 The user sends a request to the load balancer, which includes a timestamp, user ID, and the number of tickets requested.
