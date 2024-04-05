@@ -1,0 +1,34 @@
+![Example Image]('system_design_pic.jpg')
+
+- User Request:
+The user sends a request to the load balancer, which includes a timestamp, user ID, and the number of tickets requested.
+
+- Load Balancer
+Load balancer have array contain available tickets, when Load balancer gets request, it will choose randomly tickets from the array to book,
+and delete them from the array (pup), meanwhile the array is blocked to another requests until pupping tickets for the first request finished.
+The load balancer directs the request to an available server (server A, B, C, etc.) based on a round-robin algorithm or another method.
+
+- Server
+Servers are divided by events and locations
+The server update ticket event information in the cache or database.
+
+- Event Management System
+The event management system manages ticket availability for various events (event A, event B, event C). It includes an array of available tickets and a lock array to prevent multiple users from selecting the same ticket.
+
+- Database
+The database stores all the application data, including event details and ticket information.
+
+- Cache
+The cache stores frequently accessed data to improve response times.
+
+- Server Response
+The server sends a response to the user that includes the requested tickets (if available).
+
+- Update
+The system updates the cache and database to reflect the changes in ticket availability.
+
+This system design offers several advantages:
+
+Scalability: The system can be easily scaled by adding more servers to handle increased user load.
+Performance: The cache can improve response times by storing frequently accessed data.
+Availability: The load balancer ensures that user requests are directed to available servers, even if one server fails.
